@@ -1,0 +1,28 @@
+bod{
+    margin: 0;
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+
+}
+
+.container {
+    max-width: 800px;      /* largura do currículo */
+    margin: 0 auto;        /* centraliza horizontalmente */
+    padding: 20px;
+    background: white;
+    border-color: black;
+    border-style: double;
+
+}
+
+img{
+    border-radius: 200px;
+}
+
+.titulo{
+    display: block;
+    margin: 0 auto;
+    justify-content: center;
+    text-align: center
+
+}
